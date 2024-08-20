@@ -1,0 +1,27 @@
+@page {
+  size: A4;
+  margin: 2rem 0;
+}
+
+.hide-print {
+  display: none !important;
+}
+
+body {
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 0;
+  grid-template-areas: "main" "sidebar";
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+hr {
+  break-before: page;
+}
+
+table,
+figure,
+ul,
+ol {
+  page-break-inside: avoid;
+}

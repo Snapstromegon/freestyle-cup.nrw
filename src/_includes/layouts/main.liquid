@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NRW Freestyle Cup</title>
+    {% lightningcss "assets/css/main.css" %}
+    {% lightningcss "assets/css/print.css", "print" %}
+</head>
+<body>
+    {% if isPreview %}
+      <div class="preview">Vorschau!</div>
+    {% endif %}
+    {{content}}
+</body>
+</html>

@@ -1,13 +1,15 @@
 {
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0-beta.1"
+    "@11ty/eleventy": "^3.0.0-beta.1",
+    "browserslist": "^4.23.3",
+    "lightningcss": "^1.26.0",
+    "playwright": "^1.46.1"
   },
   "name": "freestyle-cup.nrw",
   "version": "1.0.0",
   "description": "Base repo for the freestyle-cup.nrw site",
   "main": "index.js",
   "type": "module",
-  "devDependencies": {},
   "scripts": {
     "start": "npx eleventy --serve",
     "build": "npx eleventy"
