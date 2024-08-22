@@ -5,12 +5,80 @@
 }
 
 html {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 body {
-  width: 50rem;
+  max-width: 50rem;
   margin: auto;
   gap: 1rem;
   padding: 1rem;
+  background-color: #ddd;
+}
+
+header {
+  background: #fff;
+
+  &::after {
+    content: "";
+    display: block;
+    height: 0.5rem;
+    background: linear-gradient(
+      to right,
+      #009036,
+      #009036 33%,
+      #000 33%,
+      #000 67%,
+      #e2001a 67%,
+      #e2001a
+    );
+  }
+}
+
+main {
+  background: #fff;
+
+  &::after {
+    content: "";
+    display: block;
+    height: 0.5rem;
+    background: linear-gradient(
+      to right,
+      #009036,
+      #009036 33%,
+      #000 33%,
+      #000 67%,
+      #e2001a 67%,
+      #e2001a
+    );
+  }
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, table {
+  padding: 0 1rem;
+  margin: 1em 0 0.5em;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 1rem;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
+  vertical-align: top;
+}
+
+ul, ol {
+  padding-left: 3rem;
+}
+
+hr {
+  opacity: 0;
 }

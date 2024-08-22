@@ -8,7 +8,9 @@ date: git Last Modified
 
 15.03. - 16.03.2025
 
-Nümbrecht
+SSV Nümbrecht
+
+---
 
 ## Teilnahmeberechtigung NRW Nachwuchscup
 
@@ -37,6 +39,8 @@ Mit der Anmeldung stimmt der Teilnehmer einer Veröffentlichung seines Namens, a
 Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter und Ausrichter keinerlei Haftung. Jeder Teilnehmer muss für seinen eigenen Versicherungsschutz sorgen. Sportvereinsmitglieder sind über ihre Vereine versichert.
 
 Die Inhalte dieser Ausschreibung sprechen weibliche und männliche Teilnehmer gleichermaßen an. Zur besseren Lesbarkeit haben wir nur die männliche Sprachform verwendet.
+
+---
 
 ## Wettkampfordnung / Einsprüche
 
@@ -95,6 +99,8 @@ Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein
   </tr>
 </table>
 
+---
+
 ## Altersklassen
 
 ### Nachwuchscup
@@ -105,20 +111,20 @@ Wir planen folgende Altersklassen anzubieten:
 
 | Alter | Kürzeit (Einzel / Paar) |
 | :---- | :---------------------: |
-| U9    |            2            |
-| U11   |            2            |
-| U13   |            2            |
-| U15   |            2            |
-| U17   |            3            |
-| U19   |            3            |
-| 19+   |            3            |
+| U9    |        2 Minuten        |
+| U11   |        2 Minuten        |
+| U13   |        2 Minuten        |
+| U15   |        2 Minuten        |
+| U17   |        3 Minuten        |
+| U19   |        3 Minuten        |
+| 19+   |        3 Minuten        |
 
 ### Sonderpokal
 
 | Alter | Kürzeit (Einzel) |
 | :---- | :--------------: |
-| U15   |        3         |
-| 15+   |        4         |
+| U15   |    3 Minuten     |
+| 15+   |    4 Minuten     |
 
 ## Jury
 
@@ -144,8 +150,8 @@ Die Gewinner der offenen Klasse U15 und 15+ erhalten jeweils zusätzlich den Pok
 
 ## Musik
 
-Die Kürmusik muss bis spätestens zum 01.03.2025 im Anmeldetool hochgeladen sein. 
-Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln. 
+Die Kürmusik muss bis spätestens zum 01.03.2025 im Anmeldetool hochgeladen sein.
+Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln.
 Nach dem 01.03.2025 sind Musikänderungen nicht mehr möglich.
 
 Die Teilnehmer sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem USB-Stick bereitzuhalten.
@@ -154,7 +160,7 @@ Die Teilnehmer sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem
 
 ### Hotels und Pensionen
 
-Hotels und Pensionen müssen privat gebucht werden. 
+Hotels und Pensionen müssen privat gebucht werden.
 Es gibt eine Vielzahl von Unterkünften (Hotels-Pensionen-Ferienwohnungen) auch in der näheren Umgebung, die über Online-Such-Portale zu finden sind.
 
 ## Verpflegung
