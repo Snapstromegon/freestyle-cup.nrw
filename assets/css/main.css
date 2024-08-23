@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Andy';
+  src: url(/assets/fonts/Andy-Bold.woff2) format('woff2');
+}
+
+#preview {
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  background: #E2001A;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  transform-origin: center center;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -10,15 +25,22 @@ html {
 }
 
 body {
-  max-width: 50rem;
-  margin: auto;
-  gap: 1rem;
-  padding: 1rem;
   background-color: #ddd;
 }
 
 header {
-  background: #fff;
+  background: #002D56;
+  color: #fff;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem 1rem;
+
+  & img {
+    height: 50dvh;
+    max-height: 20rem;
+  }
 
   &::after {
     content: "";
@@ -53,6 +75,10 @@ main {
       #e2001a
     );
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Andy', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, table {

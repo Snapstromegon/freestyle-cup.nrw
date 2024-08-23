@@ -6,12 +6,6 @@ date: git Last Modified
 
 **Stand: {{page.date | date: "%d.%m.%y"}}**
 
-15.03. - 16.03.2025
-
-SSV Nümbrecht
-
----
-
 ## Teilnahmeberechtigung NRW Nachwuchscup
 
 Teilnahmeberechtigt sind Fahrerinnen und Fahrer, die sich in den Jahren 2023 und 2024 NICHT bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe, noch für den nächsthöheren Wettkampf). Dies gilt auch für beide Fahrerinnen und Fahrer einer Paarkür.

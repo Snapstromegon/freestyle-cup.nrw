@@ -3,6 +3,10 @@
   margin: 2rem 0;
 }
 
+@page:first {
+  margin: -1px 0 0 0;
+}
+
 .hide-print {
   display: none !important;
 }
@@ -13,6 +17,12 @@ body {
   grid-template-areas: "main" "sidebar";
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
+}
+
+header {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 hr {

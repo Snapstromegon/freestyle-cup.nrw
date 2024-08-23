@@ -1,8 +1,10 @@
 {
   "dependencies": {
     "@11ty/eleventy": "^3.0.0-beta.1",
+    "@11ty/eleventy-img": "^4.0.2",
     "browserslist": "^4.23.3",
     "lightningcss": "^1.26.0",
+    "mime": "^4.0.4",
     "playwright": "^1.46.1"
   },
   "name": "freestyle-cup.nrw",

@@ -9,11 +9,14 @@
 </head>
 <body>
     {% if isPreview %}
-      <div class="preview">Vorschau!</div>
+      <div id="preview">Vorschau!</div>
     {% endif %}
     
     <header>
+      {% image "assets/img/nrw-freestyle-cup.svg" "NRW Freestyle Cup Logo" %}
       <h1>NRW Freestyle Cup</h1>
+      <p>15.03. - 16.03.2025</p>
+      <p>SSV Nümbrecht</p>
     </header>
     <main>{{content}}</main>
 </body>
