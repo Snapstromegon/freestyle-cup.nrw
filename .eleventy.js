@@ -38,6 +38,7 @@ export default (eleventyConfig) => {
   );
 
   eleventyConfig.addPassthroughCopy("assets/fonts");
+  eleventyConfig.addPassthroughCopy("assets/downloads");
   eleventyConfig.addPlugin(renderPdf, [
     { url: "/ausschreibung/", file: "downloads/ausschreibung.pdf" },
   ]);
