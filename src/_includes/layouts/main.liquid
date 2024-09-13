@@ -1,3 +1,9 @@
+---
+eleventyComputed:
+  navigationOptions:
+    activeAnchorClass: "current"
+    activeKey: "{{eleventyNavigation.key}}"
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,6 +12,7 @@
     <title>NRW Freestyle Cup</title>
     {% lightningcss "assets/css/main.css" %}
     {% lightningcss "assets/css/print.css", "print" %}
+    {% favicon "assets/img/nrw-freestyle-cup.svg" %}
 </head>
 <body>
     {% if isPreview %}
@@ -17,7 +24,11 @@
       <h1>NRW Freestyle Cup</h1>
       <p>15.03. - 16.03.2025</p>
       <p>SSV Nümbrecht</p>
+      <nav>
+        {{ collections.all | eleventyNavigation | eleventyNavigationToHtml: navigationOptions }}
+      </nav>
     </header>
     <main>{{content}}</main>
+    <footer></footer>
 </body>
 </html>

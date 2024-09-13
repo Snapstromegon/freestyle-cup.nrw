@@ -12,17 +12,16 @@
 }
 
 body {
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr 0;
-  grid-template-areas: "main" "sidebar";
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
 }
 
 header {
   height: 100vh;
-  display: flex;
-  justify-content: center;
+
+  & nav {
+    display: none;
+  }
 }
 
 hr {

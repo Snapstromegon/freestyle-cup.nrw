@@ -34,8 +34,6 @@ Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter
 
 Die Inhalte dieser Ausschreibung sprechen weibliche und männliche Teilnehmer gleichermaßen an. Zur besseren Lesbarkeit haben wir nur die männliche Sprachform verwendet.
 
----
-
 ## Wettkampfordnung / Einsprüche
 
 Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iufrulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2024](https://www.einradverband.de/wp-content/uploads/2024/02/Konzept_gem_Wettkaempfe_v240217.pdf).
@@ -92,8 +90,6 @@ Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein
     <td>3 Minuten</td>
   </tr>
 </table>
-
----
 
 ## Altersklassen
 
