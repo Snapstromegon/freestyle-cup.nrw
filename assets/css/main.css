@@ -80,12 +80,32 @@ header {
       color: #fff;
       text-decoration: none;
       font-size: 1.2rem;
-        padding: .5rem 1rem;
+        padding: .5rem .75rem;
 
       &.current {
         color: #002d56;
         background-color: #fff;
         border-radius: .5rem .5rem 0 0;
+        position: relative;
+
+        &::after, &::before {
+          content: "";
+          width: .5rem;
+          height: .5rem;
+          display: block;
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          background: radial-gradient(circle at 0% 0%, transparent, transparent 71%, #fff 50%, #fff);
+          transform: translateX(-100%);
+        }
+        
+        &::after {
+          right: 0;
+          left: auto;
+          background: radial-gradient(circle at 100% 0%, transparent, transparent 71%, #fff 50%, #fff);
+          transform: translateX(100%);
+        }
       }
     }
   }
