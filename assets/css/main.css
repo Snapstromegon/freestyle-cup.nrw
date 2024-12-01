@@ -185,3 +185,13 @@ ol {
 hr {
   opacity: 0;
 }
+
+.sponsor-logos {
+  display: flex;
+  justify-content: space-evenly;
+
+  img {
+    height: 4rem;
+    width: auto;
+  }
+}

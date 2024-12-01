@@ -14,14 +14,54 @@
 body {
   -webkit-print-color-adjust: exact;
   print-color-adjust: exact;
+
+  grid-template-columns: 1fr 90% 1fr;
 }
 
 header {
-  height: 100vh;
-
+  & img {
+    min-height: 0;
+    height: 7rem;
+    max-height: 100%;
+  }
   & nav {
     display: none;
   }
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-tempalte-rows: auto auto auto;
+  grid-template-areas:
+    "logo title"
+    "logo date"
+    "logo club";
+  justify-items: start;
+  align-items: center;
+
+  & img {
+    grid-area: logo;
+  }
+
+  & #event-title, & #event-date, & #event-club {
+    margin: .3rem 0;
+  }
+
+  & #event-title {
+    grid-area: title;
+  }
+
+  & #event-date {
+    grid-area: date;
+  }
+
+  & #event-club {
+    grid-area: club;
+  }
+
+  padding-bottom: 2rem;
+}
+
+footer {
+  display: none;
 }
 
 hr {
@@ -33,4 +73,8 @@ figure,
 ul,
 ol {
   page-break-inside: avoid;
+}
+
+#preview {
+  position: fixed;
 }

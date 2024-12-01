@@ -21,9 +21,9 @@ eleventyComputed:
     
     <header>
       {% image "assets/img/nrw-freestyle-cup.svg" "NRW Freestyle Cup Logo" %}
-      <h1>NRW Freestyle Cup</h1>
-      <p>15.03. - 16.03.2025</p>
-      <p>SSV Nümbrecht</p>
+      <h1 id="event-title">NRW Freestyle Cup</h1>
+      <p id="event-date">15.03. - 16.03.2025</p>
+      <p id="event-club">SSV Nümbrecht</p>
       <nav>
         {{ collections.all | eleventyNavigation | eleventyNavigationToHtml: navigationOptions }}
       </nav>

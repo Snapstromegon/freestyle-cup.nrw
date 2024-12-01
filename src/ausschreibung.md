@@ -2,17 +2,60 @@
 date: git Last Modified
 ---
 
-# Ausschreibung
+{% lightningcss "assets/css/ausschreibung.css", "print" %}
+
+<div id="printgrid">
+
+<aside>
 
 **Stand: {{page.date | date: "%d.%m.%y"}}**
 
-## Teilnahmeberechtigung NRW Nachwuchscup
+<div class="sponsor-logos">
+{% image "assets/img/rkb-logo.png", "RGB Logo" %}
+{% image "assets/img/bdr-logo.png", "RGB Logo" %}
+{% image "assets/img/evd-logo.png", "RGB Logo" %}
+</div>
 
-Teilnahmeberechtigt sind Fahrerinnen und Fahrer, die sich in den Jahren 2023 und 2024 NICHT bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe, noch für den nächsthöheren Wettkampf). Dies gilt auch für beide Fahrerinnen und Fahrer einer Paarkür.
+### Ausrichter
+
+SSV Nümbrecht 2010 e.V.
+Abteilung Einrad
+
+### Kontakt
+
+Peter Kaufmann
+[info@freestyle-cup.nrw](mailto:info@freestyle-cup.nrw)
+
+### Meldestart
+**01.01.2025**
+
+### Meldeschluss
+**02.02.2025**
+<br>
+<br>
+Nachmeldungen sind\
+nicht möglich.
+
+</aside>
+
+# Ausschreibung
+
+Dieser Wettkampf richtet sich an FahrerInnen in ganz Deutschland, jedoch werden FahrerInnen aus NRW, NI und HB bei der Vergabe von Startplätzen bevorzugt.
+
+## Teilnahmeberechtigung Nachwuchscup
+
+Dieser Nachwuchswettkampf richtet sich vor allem an FahrerInnen, die sehr wenig bis keine Wettkampferfahrung haben.
+
+Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe, noch für den nächsthöheren Wettkampf).
+
+Dies gilt auch für beide FahrerInnen einer Paarkür.
+Ausnahmen können nach Ermessen des Ausrichters in Einzelfällen gewährt werden.
+
+Für alle männlichen Einzelstarter gelten keine Einschränkungen. Es wird jedoch an die Sportler appelliert, Meldungen nur im Sinne der Nachwuchsförderung vorzunehmen.
 
 ## Teilnahmeberechtigung Sonderpokal
 
-Es wird eine begrenzte Anzahl an Einzelküren in einer offenen Klasse am Sonntagnachmittag geben. Anmeldungen sind für alle Fahrer möglich, die NICHT am Nachwuchscup teilnehmen.. Gefahren wird in zwei Altersgruppen U15 und 15+ um den Sonderpokal des Hauptsponsors.
+Es wird eine begrenzte Anzahl an Einzel- und Paarküren in einer offenen Klasse am Sonntag geben. Anmeldungen sind für alle FahrerInnen möglich, die NICHT am Nachwuchscup teilnehmen. Gefahren wird in zwei Altersgruppen U15 und 15+ um den Sonderpokal des Hauptsponsors.
 
 ## Veranstaltungsort
 
@@ -20,48 +63,19 @@ GWN Arena, Gouvieuxstraße, 51588 Nümbrecht
 
 ## Startgebühr
 
-Die Startgebühr beträgt XX EUR pro Start. Zahlungsinformationen werden nach Anmeldeschluss bekanntgegeben.
+Die Startgebühr beträgt pro FahrerIn 10,- EUR pro Start in den Nachwuchsklassen und 12,-EUR pro Start beim Sonderpokal.
+
+Zahlungsinformationen werden nach Anmeldeschluss bekanntgegeben.
 
 ## Anmeldung
 
-Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https://freestyle-cup.nrw) gesondert bekannt gegeben. Die Anmeldungen erfolgt vereinsweise. Abmeldungen für einzelne Disziplinen oder den gesamten Wettkampf sind bis zum Meldeschluss möglich. Bei späteren Abmeldungen ist eine Erstattung der Startgebühr nur bei krankheitsbedingtem Grund und der Vorlage eines ärztlichen Attestes möglich.
-
-## Allgemeine Hinweise
-
-Mit der Anmeldung stimmt der Teilnehmer einer Veröffentlichung seines Namens, aller Ergebnisse sowie Fotos und Videos, die im Zusammenhang mit der Veranstaltung entstehen, zu.
-
-Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter und Ausrichter keinerlei Haftung. Jeder Teilnehmer muss für seinen eigenen Versicherungsschutz sorgen. Sportvereinsmitglieder sind über ihre Vereine versichert.
-
-Die Inhalte dieser Ausschreibung sprechen weibliche und männliche Teilnehmer gleichermaßen an. Zur besseren Lesbarkeit haben wir nur die männliche Sprachform verwendet.
-
-## Wettkampfordnung / Einsprüche
-
-Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iufrulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2024](https://www.einradverband.de/wp-content/uploads/2024/02/Konzept_gem_Wettkaempfe_v240217.pdf).
-
-Jeder Teilnehmer ist für das pünktliche Erscheinen zur vorgegebenen Startzeit selbst verantwortlich.
-
-Verpasst ein Sportler seinen Start, hat er keinen Anspruch auf einen späteren Start.
-Begründete Abmeldungen müssen bei der Wettkampfleitung vor Aufruf der jeweiligen Altersklasse bekannt gegeben werden.
-
-Das Einfahren auf der Wettkampffläche ist nur den Teilnehmern der Küren gestattet, die als nächstes starten. Trainingsmöglichkeit besteht am Samstag und Sonntag ab 1h vor Wettkampfbeginn in einer **separaten Halle**.
-
-Bei Defekten am Einrad während des Wettbewerbs hat der Teilnehmer nach Bestätigung durch die Wettkampfleitung die Möglichkeit, einen Neustart zu bekommen, falls kein Eigenverschulden vorliegt.
-
-Während des Wettbewerbs müssen sich alle Teilnehmer im Interesse der Chancengleichheit und der Fairness sportlich korrekt verhalten, sowie die Anweisungen des Ausrichters befolgen. Folgendes Verhalten durch Aktive, Eltern, Betreuer oder Begleitpersonen gilt als grob unsportlich und kann mit Disqualifikation bzw. Verweis aus der Sportanlage geahndet werden:
-
-- negative Beeinflussung anderer Sportler durch laute Zurufe im Sinne einer Beleidigung
-- lautstarke Kritik an der Jury
-- unbefugtes Betreten der Wettkampffläche
-- Einmischen in den Wettkampf, z. B. durch Anweisungen, Anfassen der Teilnehmer etc.
-- Unsportliches Verhalten bei den Siegerehrungen
-
-Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein und dürfen keine gefährlichen Anbauten haben. Metall-, Klick- und Korbpedale sind nicht erlaubt. Der Veranstalter / Ausrichter behält sich das Recht vor, im Zweifelsfall zu entscheiden, ob das Einrad zulässig ist oder nicht. Eine Nichtbeachtung der Regeln kann zur Disqualifikation für den gesamten Wettkampf und zu Regresspflicht bei Schäden führen. In den Hallen werden nur Einräder mit abriebfestem Mantel zum Start zugelassen. Saubere, abriebfeste Hallenturnschuhe werden vorausgesetzt.
+Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https://freestyle-cup.nrw) gesondert bekannt gegeben. Die Anmeldung erfolgt vereinsweise. Abmeldungen für einzelne Disziplinen oder den gesamten Wettkampf sind bis zum Meldeschluss möglich. Bei späteren Abmeldungen ist eine Erstattung der Startgebühr nur bei krankheitsbedingtem Grund und der Vorlage eines ärztlichen Attestes möglich.
 
 ## Vorläufiger Zeitplan
 
 <table>
   <tr>
-    <td rowspan=2>Samstag 15.03.2025 ab 11Uhr, 1h Mittagspause</td>
+    <td rowspan=2>Samstag 15.03.2025 ab 11Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Einzelküren (w/m)</td>
     <td>U15</td>
     <td>2 Minuten</td>
@@ -71,7 +85,7 @@ Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein
     <td>3 Minuten</td>
   </tr>
   <tr>
-    <td rowspan=4>Sonntag 16.03.2025 ab 9Uhr, 1h Mittagspause</td>
+    <td rowspan=4>Sonntag 16.03.2025 ab 9Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Paarküren</td>
     <td>U15</td>
     <td>2 Minuten</td>
@@ -81,7 +95,7 @@ Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein
     <td>3 Minuten</td>
   </tr>
   <tr>
-    <td rowspan=2>Einzelküren Sonderpokal (w/m)</td>
+    <td rowspan=2>Einzelküren (mixed) /<br>Paarküren Sonderpokal</td>
     <td>U15</td>
     <td>2 Minuten</td>
   </tr>
@@ -90,6 +104,45 @@ Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein
     <td>3 Minuten</td>
   </tr>
 </table>
+
+## Allgemeine Hinweise
+
+Allgemeine Hinweise:
+Mit der Anmeldung stimmen die TeilnehmerInnen einer Veröffentlichung ihrer Namen, aller Ergebnisse sowie Fotos und Videos, die im Zusammenhang mit der Veranstaltung entstehen, zu.
+
+Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter und Ausrichter keine Haftung. Jede TeilnehmerIn muss für seinen eigenen Versicherungsschutz sorgen. MitgliederInnen in Sportvereinen sind über ihre Vereine versichert.
+
+---
+
+## Wettkampfordnung / Einsprüche
+
+Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iuf-rulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2024](https://www.einradverband.de/wp-content/uploads/2024/02/Konzept_gem_Wettkaempfe_v240217.pdf), das auf der Homepage des BDR einsehbar ist.
+
+Jede TeilnehmerIn ist für das pünktliche Erscheinen zur vorgegebenen Startzeit selbst verantwortlich. 
+Verpasst eine SportlerIn den Start, verfällt der Anspruch auf einen späteren Start.
+
+Begründete Abmeldungen müssen bei der Wettkampfleitung vor Aufruf der jeweiligen Altersklasse bekannt gegeben werden. 
+Das Einfahren auf der Wettkampffläche ist nur den TeilnehmerInnen der Küren gestattet, die als nächstes starten. Trainingsmöglichkeit besteht am Samstag und Sonntag ab 1h vor Wettkampfbeginn in einer **separaten Halle**.
+
+Bei Defekten am Einrad während des Wettbewerbs hat die TeilnehmerIn nach Bestätigung durch die Wettkampfleitung die Möglichkeit, einen Neustart zu bekommen, falls kein Eigenverschulden vorliegt.
+
+Während des Wettbewerbs müssen sich alle TeilnehmerInnen im Interesse der Chancengleichheit und der Fairness sportlich korrekt verhalten, sowie die Anweisungen des Ausrichters befolgen.          Folgendes Verhalten durch Aktive, Eltern, BetreuerInnen oder Begleitpersonen gilt als grob unsportlich und kann mit Disqualifikation bzw. Verweis aus der Sportanlage geahndet werden:
+- negative Beeinflussung anderer SportlerInnen durch laute Zurufe im Sinne einer Beleidigung
+- lautstarke Kritik an der Jury
+- unbefugtes Betreten der Wettkampffläche 
+- Einmischen in den Wettkampf, z. B. durch Anweisungen, Anfassen der TeilnehmerInnen etc.
+- Unsportliches Verhalten bei den Siegerehrungen 
+
+Die Einräder müssen in einem sauberen und technisch einwandfreien Zustand sein und dürfen keine gefährlichen Anbauten haben. Metall-, Klick- und Korbpedale sind nicht erlaubt.
+
+Der Veranstalter / Ausrichter behält sich das Recht vor, im Zweifelsfall zu entscheiden, ob das Einrad zulässig ist oder nicht. Eine Nichtbeachtung der Regeln kann zur Disqualifikation für den gesamten Wettkampf und zu Regresspflicht bei Schäden führen. In den Hallen werden nur Einräder mit abriebfestem Mantel zum Start zugelassen. Saubere, abriebfeste Hallenturnschuhe werden vorausgesetzt.
+
+## Ehrungen
+
+Die Plätze 1 - 3 werden mit Medaillen geehrt.
+Es werden außerdem für alle Plätze Urkunden vergeben.
+
+Die GewinnerInnen der Sonderpokalklassen U15 und 15+ erhalten jeweils zusätzlich den Pokal des Hauptsponsors.
 
 ## Altersklassen
 
@@ -111,40 +164,60 @@ Wir planen folgende Altersklassen anzubieten:
 
 ### Sonderpokal
 
-| Alter | Kürzeit (Einzel) |
+| Alter | Kürzeit (Einzel / Paar) |
 | :---- | :--------------: |
 | U15   |    3 Minuten     |
 | 15+   |    4 Minuten     |
 
+## Musik
+
+Die Kürmusik muss **bis spätestens 02.03.2025** dem Veranstalter bereitgestellt werden. Genau Details hierzu werden mit der Zahlungsaufforderung nach Meldeschluss mitgeteilt.
+Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln.
+
+Nach dem 02.03.2025 sind Musikänderungen nicht mehr möglich.
+
+Die TeilnehmerInnen sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem USB-Stick bereitzuhalten.
+
+---
+
 ## Jury
+
+<table style="float: right">
+  <tr>
+    <th>Anzahl der Teilnehmer</th>
+    <th>Zahl der Juroren</th>
+  </tr>
+  <tr>
+    <td>1 – 4</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>5 – 10</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>11 – 20</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>21 – 30</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>über 30</td>
+    <td>5</td>
+  </tr>
+</table>
 
 Alle Vereine sind verpflichtet, abhängig von der Teilnehmerzahl eine Mindestanzahl an ausgebildeten Juroren zu stellen.
 
-| Anzahl der Teilnehmer | Zahl der Juroren |
-| :-------------------: | :--------------: |
-|         1 – 4         |        1         |
-|        5 – 10         |        2         |
-|        11 – 20        |        3         |
-|        21 – 30        |        4         |
-|        über 30        |        5         |
+Vereine, die die geforderten Juroren nicht stellen können, können vor dem Meldeschluss 
+per Mail über [swantje.wicker@web.de](mailto:swantje.wicker@web.de) bei der Juryleitung eine Ausnahme von der Regelung beantragen.
 
-Vereine, die die geforderten Juroren nicht stellen können, können vor dem Meldeschluss
-per Mail über XXXXXXXXX bei der Juryleitung eine Ausnahme von der Regelung beantragen.
+### Wir bieten Jury-Hospitation an
+Geschulte sowie ungeschulte Personen bekommen die Möglichkeit das Werten eines geschulten Jurymitgliedes zu verfolgen. Zu diesem Zweck wird die Wertungszeit entsprechend verlängert.
 
-## Ehrungen
-
-Die Plätze 1 - 3 in den Altersklassen-Vorläufen werden mit Medaillen geehrt.
-Es werden außerdem für alle Plätze Urkunden vergeben.
-
-Die Gewinner der offenen Klasse U15 und 15+ erhalten jeweils zusätzlich den Pokal des Hauptsponsors.
-
-## Musik
-
-Die Kürmusik muss bis spätestens zum 01.03.2025 im Anmeldetool hochgeladen sein.
-Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln.
-Nach dem 01.03.2025 sind Musikänderungen nicht mehr möglich.
-
-Die Teilnehmer sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem USB-Stick bereitzuhalten.
+**ABFRAGE IN ANMLEDUNG?**
 
 ## Unterkünfte
 
@@ -153,10 +226,17 @@ Die Teilnehmer sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem
 Hotels und Pensionen müssen privat gebucht werden.
 Es gibt eine Vielzahl von Unterkünften (Hotels-Pensionen-Ferienwohnungen) auch in der näheren Umgebung, die über Online-Such-Portale zu finden sind.
 
+Weitere Angebote finden sich auch auf:
+- [www.nuembrecht.de](https://www.nuembrecht-erleben.de/echt-was-los/gastgeber/?tx_tourism_locationlist[category]=8)
+- [Jugendherberge Wiehl](https://www.jugendherberge.de/jugendherbergen/wiehl/)
+- [Jugendherberge Panabora](https://panarbora.de/unsere-unterkuenfte)
+
 ## Verpflegung
 
 Während der Wettkämpfe steht ein angemessenes Catering zu familienfreundlichen Preisen zur Verfügung.
 
 ## Sanitätsdienst
 
-Während der Wettkämpfe befindet sich mindestens ein ausgebildeter Ersthelfer in der Halle.
+Während der Wettkämpfe befindet sich mindestens eine ErsthelferIn in der Halle.
+
+</div>
