@@ -2,7 +2,7 @@
 date: git Last Modified
 ---
 
-{% lightningcss "assets/css/ausschreibung.css", "print" %}
+{% lightningcss "assets/css/ausschreibung.css" %}
 
 <div id="printgrid">
 
@@ -46,7 +46,7 @@ Dieser Wettkampf richtet sich an FahrerInnen in ganz Deutschland, jedoch werden 
 
 Dieser Nachwuchswettkampf richtet sich vor allem an FahrerInnen, die sehr wenig bis keine Wettkampferfahrung haben.
 
-Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe, noch für den nächsthöheren Wettkampf).
+Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe noch für den nächsthöheren Wettkampf).
 
 Dies gilt auch für beide FahrerInnen einer Paarkür.
 Ausnahmen können nach Ermessen des Ausrichters in Einzelfällen gewährt werden.
@@ -148,7 +148,7 @@ Die GewinnerInnen der Sonderpokalklassen U15 und 15+ erhalten jeweils zusätzlic
 
 ### Nachwuchscup
 
-Die endgültigen Altersklassen werden erst nach Meldeschluss durch Auftrennung bzw. Zusammenlegung entschieden um möglichst gleichgroße Gruppen zu schaffen.
+Die endgültigen Altersklassen werden erst nach Meldeschluss durch Auftrennung bzw. Zusammenlegung entschieden, um möglichst gleich große Gruppen zu schaffen.
 
 Wir planen folgende Altersklassen anzubieten:
 
@@ -171,7 +171,7 @@ Wir planen folgende Altersklassen anzubieten:
 
 ## Musik
 
-Die Kürmusik muss **bis spätestens 02.03.2025** dem Veranstalter bereitgestellt werden. Genau Details hierzu werden mit der Zahlungsaufforderung nach Meldeschluss mitgeteilt.
+Die Kürmusik muss **bis spätestens 02.03.2025** dem Veranstalter bereitgestellt werden. Genauere Details hierzu werden mit der Zahlungsaufforderung nach Meldeschluss mitgeteilt.
 Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln.
 
 Nach dem 02.03.2025 sind Musikänderungen nicht mehr möglich.
