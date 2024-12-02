@@ -9,7 +9,7 @@ eleventyNavigation:
 
 <div class="hide-print">
 
-[Die Ausschreibung ist hier auch als PDF verfügbar.](/downloads/ausschreibung.pdf)
+[Die Ausschreibung ist hier auch als PDF verfügbar.](/assets/downloads/Ausschreibung-NRW-Freestyle-Cup.pdf)
 </div>
 <div id="printgrid">
 
