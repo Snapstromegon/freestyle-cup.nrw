@@ -4,6 +4,8 @@ date: git Last Modified
 
 {% lightningcss "assets/css/ausschreibung.css" %}
 
+[Die Ausschreibung ist hier auch als PDF verfügbar.](/assets/downloads/Ausschreibung-NRW-Freestyle-Cup.pdf)
+
 <div id="printgrid">
 
 <aside>
