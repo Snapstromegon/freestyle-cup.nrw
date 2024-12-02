@@ -217,7 +217,7 @@ per Mail über [swantje.wicker@web.de](mailto:swantje.wicker@web.de) bei der Jur
 ### Wir bieten Jury-Hospitation an
 Geschulte sowie ungeschulte Personen bekommen die Möglichkeit das Werten eines geschulten Jurymitgliedes zu verfolgen. Zu diesem Zweck wird die Wertungszeit entsprechend verlängert.
 
-**ABFRAGE IN ANMLEDUNG?**
+**Die Anmeldung für Jury und Jury-Hosptitation findet zusammen mit der Wettkampfanmeldung statt.**
 
 ## Unterkünfte
 
