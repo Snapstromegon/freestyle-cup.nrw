@@ -1,13 +1,16 @@
 ---
 date: git Last Modified
 eleventyNavigation:
-  key: Âusschreibung
+  key: Ausschreibung
+  order: 2
 ---
 
 {% lightningcss "assets/css/ausschreibung.css" %}
 
-[Die Ausschreibung ist hier auch als PDF verfügbar.](/assets/downloads/Ausschreibung-NRW-Freestyle-Cup.pdf)
+<div class="hide-print">
 
+[Die Ausschreibung ist hier auch als PDF verfügbar.](/downloads/ausschreibung.pdf)
+</div>
 <div id="printgrid">
 
 <aside>
