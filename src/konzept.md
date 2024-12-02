@@ -1,6 +1,4 @@
 ---
-eleventyNavigation:
-  key: Konzept
 ---
 
 ## NRW Nachwuchscup im Einrad Freestyle

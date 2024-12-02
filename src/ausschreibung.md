@@ -1,5 +1,7 @@
 ---
 date: git Last Modified
+eleventyNavigation:
+  key: Âusschreibung
 ---
 
 {% lightningcss "assets/css/ausschreibung.css" %}
