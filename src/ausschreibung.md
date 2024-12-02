@@ -46,7 +46,7 @@ Dieser Wettkampf richtet sich an FahrerInnen in ganz Deutschland, jedoch werden 
 
 Dieser Nachwuchswettkampf richtet sich vor allem an FahrerInnen, die sehr wenig bis keine Wettkampferfahrung haben.
 
-Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft qualifiziert haben (weder für die Finalläufe noch für den nächsthöheren Wettkampf).
+Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft mit einer Einzel- oder Paarkür qualifiziert haben (weder für die Finalläufe noch für den nächsthöheren Wettkampf).
 
 Dies gilt auch für beide FahrerInnen einer Paarkür.
 Ausnahmen können nach Ermessen des Ausrichters in Einzelfällen gewährt werden.
