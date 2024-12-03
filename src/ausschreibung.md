@@ -104,11 +104,11 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
   <tr>
     <td rowspan=2>Einzelküren (mixed) /<br>Paarküren Sonderpokal</td>
     <td>U15</td>
-    <td>2 Minuten</td>
+    <td>3 Minuten</td>
   </tr>
   <tr>
     <td>15+</td>
-    <td>3 Minuten</td>
+    <td>4 Minuten</td>
   </tr>
 </table>
 
