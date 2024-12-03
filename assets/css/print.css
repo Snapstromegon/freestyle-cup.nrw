@@ -18,14 +18,15 @@ body {
   grid-template-columns: 1fr 90% 1fr;
 }
 
+nav {
+  display: none;
+}
+
 header {
   & img {
     min-height: 0;
     height: 7rem;
     max-height: 100%;
-  }
-  & nav {
-    display: none;
   }
   display: grid;
   grid-template-columns: 1fr 2fr;

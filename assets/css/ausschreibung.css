@@ -13,7 +13,7 @@ main {
     float: right;
     page-break-after: always;
     width: 14rem;
-    height: 75vh;
+    min-height: 75vh;
     text-align: center;
 
     & h1, & h2, & h3 {
@@ -40,6 +40,7 @@ main {
 
 @media print {
   main {
+    padding-bottom: 0;
     & h1 {
       text-align: left;
 

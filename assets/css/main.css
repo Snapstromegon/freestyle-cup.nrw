@@ -28,10 +28,10 @@ html {
 body {
   background-color: #fff;
   display: grid;
-  grid-auto-rows: auto 1fr auto;
-  grid-template-columns: 1fr minmax(10rem, 60rem) 1fr;
+  grid-auto-rows: auto auto 1fr auto;
+  grid-template-columns: 1fr minmax(8rem, 60rem) 1fr;
   min-height: 100dvh;
-  gap: 1rem 0;
+  gap: 0;
 
   & > * {
     grid-column: 2;
@@ -63,49 +63,66 @@ header {
     justify-self: center;
     width: 100%;
   }
+}
 
-  & nav {
-    & ul {
-      display: flex;
-      justify-content: center;
-      gap: 1rem;
-      padding-left: 0;
-    }
+nav {
+  background: #002d56;
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  margin-top: -1px;
+  position: sticky;
+  padding-top: .5rem;
+  top: 0;
 
-    & li {
-      list-style: none;
-    }
+  & ul {
+    flex-shrink: 0;
+    display: flex;
+    gap: 1rem;
+    grid-column: 2;
+    padding: 0 .5rem;
+    overflow-x: auto;
+    overscroll-behavior: contain;
+    max-width: 100%;
+    margin: 0;
+  }
 
-    & a {
-      color: #fff;
-      text-decoration: none;
-      font-size: 1.2rem;
-        padding: .5rem .75rem;
+  & li {
+    list-style: none;
+    flex-shrink: 0;
+    display: block;
+  }
 
-      &.current {
-        color: #002d56;
-        background-color: #fff;
-        border-radius: .5rem .5rem 0 0;
-        position: relative;
+  & a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    font-size: 1.2rem;
+    padding: .5rem .75rem;
 
-        &::after, &::before {
-          content: "";
-          width: .5rem;
-          height: .5rem;
-          display: block;
-          position: absolute;
-          bottom: 0;
-          left: 0;
-          background: radial-gradient(circle at 0% 0%, transparent, transparent 71%, #fff 50%, #fff);
-          transform: translateX(-100%);
-        }
-        
-        &::after {
-          right: 0;
-          left: auto;
-          background: radial-gradient(circle at 100% 0%, transparent, transparent 71%, #fff 50%, #fff);
-          transform: translateX(100%);
-        }
+    &.current {
+      color: #002d56;
+      background-color: #fff;
+      border-radius: .5rem .5rem 0 0;
+      position: relative;
+
+      &::after, &::before {
+        content: "";
+        width: .5rem;
+        height: .5rem;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: radial-gradient(circle at 0% 0%, transparent, transparent 71%, #fff 50%, #fff);
+        transform: translateX(-100%);
+      }
+      
+      &::after {
+        right: 0;
+        left: auto;
+        background: radial-gradient(circle at 100% 0%, transparent, transparent 71%, #fff 50%, #fff);
+        transform: translateX(100%);
       }
     }
   }
@@ -115,6 +132,7 @@ main {
   flex-grow: 1;
   background: #fff;
   display: grid;
+  padding: 1rem 0;
 }
 footer {
   position: relative;
@@ -189,6 +207,7 @@ hr {
 .logo-line, .sponsor-logos {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 
   img {
     height: 4rem;
