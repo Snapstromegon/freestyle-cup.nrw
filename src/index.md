@@ -21,7 +21,7 @@ Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrech
 
 Einfach zwischen dem 01.01.2025 und dem 02.02.2025 anmelden!
 
-Wie genau, erfährst du rechtzeitig genau auf dieser Seite.
+**Die Anmeldung findet über unser [Anmeldetool](https://anmeldung.freestyle-cup.nrw/) statt und erfolgt vereinsweise.**
 
 Ob dieser Wettkampf etwas für dich ist, erfährst du direkt zu Beginn der [Ausschreibung](/ausschreibung) (wenn du bereits Wettkampferfahrung hast, ist vielleicht der Sonderpokal unseres Hauptsponsors etwas für dich).
 

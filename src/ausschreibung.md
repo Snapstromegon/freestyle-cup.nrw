@@ -2,7 +2,7 @@
 date: git Last Modified
 eleventyNavigation:
   key: Ausschreibung
-  order: 2
+  order: 3
 ---
 
 {% lightningcss "assets/css/ausschreibung.css" %}
