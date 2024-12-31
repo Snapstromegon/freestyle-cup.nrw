@@ -8,7 +8,7 @@ eleventyNavigation:
 
 # Hallo!
 
-Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrecht 2025 wieder einen Wettkampf in unserem schönen Luftkurort ausrichten zu dürfen. Dieses mal ist es der **NRW Freestyle Cup**. Ein Nachwuchswettkampf for alle wahrer mit wenig bis keiner Wettkampferfahrung.
+Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrecht 2025 wieder einen Wettkampf in unserem schönen Luftkurort ausrichten zu dürfen. Dieses mal ist es der **NRW Freestyle Cup**. Ein Nachwuchswettkampf für alle FahrerInnen mit wenig bis keiner Wettkampferfahrung.
 
 <div class="logo-line">
 <a target="_blank" rel="norefferer" href="https://www.ssvnuembrecht-turnen.de/index.php/abteilungen/einradfahren">{% image "assets/img/ssv-logo.png", "Logo SSV Nümbrecht Turnen 2010 e.V." %}</a>
