@@ -80,20 +80,31 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
 
 ## Vorläufiger Zeitplan
 
+**_ACHTUNG: Geändert am 05.02.2025_**
+
 <table>
   <tr>
-    <td rowspan=2>Samstag 15.03.2025 ab 11Uhr,<br>1h Mittagspause</td>
-    <td rowspan=2>Einzelküren (w/m)</td>
+    <td rowspan=4>Samstag 15.03.2025 ab 11Uhr,<br>1h Mittagspause</td>
+    <td rowspan=2>Einzelküren (w/m) Nachwuchscup</td>
     <td>U15</td>
     <td>2 Minuten</td>
   </tr>
   <tr>
     <td>15+</td>
     <td>3 Minuten</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Einzelküren (mixed) Sonderpokal</td>
+    <td>U15</td>
+    <td>3 Minuten</td>
+  </tr>
+  <tr>
+    <td>15+</td>
+    <td>4 Minuten</td>
   </tr>
   <tr>
     <td rowspan=4>Sonntag 16.03.2025 ab 9Uhr,<br>1h Mittagspause</td>
-    <td rowspan=2>Paarküren</td>
+    <td rowspan=2>Paarküren Nachwuchscup</td>
     <td>U15</td>
     <td>2 Minuten</td>
   </tr>
@@ -102,7 +113,7 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
     <td>3 Minuten</td>
   </tr>
   <tr>
-    <td rowspan=2>Einzelküren (mixed) /<br>Paarküren Sonderpokal</td>
+    <td rowspan=2>Paarküren Sonderpokal</td>
     <td>U15</td>
     <td>3 Minuten</td>
   </tr>

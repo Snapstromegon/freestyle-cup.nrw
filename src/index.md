@@ -17,13 +17,44 @@ Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrech
 <a target="_blank" rel="norefferer" href="https://rkbsoli.org/sportwelten/einradfahren-nach-iuf/">{% image "assets/img/rkb-logo.png", "Logo RKB" %}</a>
 </div>
 
-## Wie kann ich mitmachen?
+## Vorläufiger Zeitplan
 
-Einfach zwischen dem 01.01.2025 und dem 02.02.2025 anmelden!
+<table>
+  <tr>
+    <td rowspan=2>Samstag 15.03.2025 ab 11Uhr,<br>1h Mittagspause</td>
+    <td rowspan=2>Nachwuchscup Einzelküren (w/m)</td>
+    <td>U15</td>
+  </tr>
+  <tr>
+    <td>15+</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Samstag 15.03.2025 ab 16Uhr</td>
+    <td rowspan=2>Sonderpokal Einzelküren (mixed)</td>
+    <td>U15</td>
+  </tr>
+  <tr>
+    <td>15+</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Sonntag 16.03.2025 ab 9Uhr,<br>1h Mittagspause</td>
+    <td rowspan=2>Nachwuchscup Paarküren</td>
+    <td>U15</td>
+  </tr>
+  <tr>
+    <td>15+</td>
+  </tr>
+  <tr>
+    <td rowspan=2>Sonntag 16.03.2025 ab 9Uhr</td>
+    <td rowspan=2>Sonderpokal Paarküren</td>
+    <td>U15</td>
+  </tr>
+  <tr>
+    <td>15+</td>
+  </tr>
+</table>
 
-**Die Anmeldung findet über unser [Anmeldetool](https://anmeldung.freestyle-cup.nrw/) statt und erfolgt vereinsweise.**
-
-Ob dieser Wettkampf etwas für dich ist, erfährst du direkt zu Beginn der [Ausschreibung](/ausschreibung) (wenn du bereits Wettkampferfahrung hast, ist vielleicht der Sonderpokal unseres Hauptsponsors etwas für dich).
+**Die Zahlungsinformationen wurden am 05.02.2025 per Mail verschickt und können auch über unser [Anmeldetool](https://anmeldung.freestyle-cup.nrw/) eingesehen werden.**
 
 ## Wir freuen uns auf euch!
 
