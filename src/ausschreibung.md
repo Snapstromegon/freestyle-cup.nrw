@@ -70,17 +70,13 @@ GWN Arena, Gouvieuxstraße, 51588 Nümbrecht
 
 ## Startgebühr
 
-Die Startgebühr beträgt pro FahrerIn 10,- EUR pro Start in den Nachwuchsklassen und 12,-EUR pro Start beim Sonderpokal.
-
-Zahlungsinformationen werden nach Anmeldeschluss bekanntgegeben.
+Die Startgebühr beträgt pro FahrerIn 10,- EUR pro Start in den Nachwuchsklassen und 12,-EUR pro Start beim Sonderpokal. Zahlungsinformationen finden sich im Anmeldetool.
 
 ## Anmeldung
 
 Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https://freestyle-cup.nrw) gesondert bekannt gegeben. Die Anmeldung erfolgt vereinsweise. Abmeldungen für einzelne Disziplinen oder den gesamten Wettkampf sind bis zum Meldeschluss möglich. Bei späteren Abmeldungen ist eine Erstattung der Startgebühr nur bei krankheitsbedingtem Grund und der Vorlage eines ärztlichen Attestes möglich.
 
 ## Vorläufiger Zeitplan
-
-**_ACHTUNG: Geändert am 05.02.2025_**
 
 <table>
   <tr>
