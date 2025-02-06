@@ -37,7 +37,7 @@ Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrech
     <td>15+</td>
   </tr>
   <tr>
-    <td rowspan=2>Sonntag 16.03.2025 ab 9Uhr,<br>1h Mittagspause</td>
+    <td rowspan=2>Sonntag 16.03.2025 ab 10Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Nachwuchscup Paarküren</td>
     <td>U15</td>
   </tr>
@@ -45,7 +45,7 @@ Nach der ODM 2016, der DM 2019 und der NDM 2023 freuen wir uns als SSV Nümbrech
     <td>15+</td>
   </tr>
   <tr>
-    <td rowspan=2>Sonntag 16.03.2025 ab 9Uhr</td>
+    <td rowspan=2>Sonntag 16.03.2025 ab 14Uhr</td>
     <td rowspan=2>Sonderpokal Paarküren</td>
     <td>U15</td>
   </tr>

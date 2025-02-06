@@ -99,7 +99,7 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
     <td>4 Minuten</td>
   </tr>
   <tr>
-    <td rowspan=4>Sonntag 16.03.2025 ab 9Uhr,<br>1h Mittagspause</td>
+    <td rowspan=4>Sonntag 16.03.2025 ab 10Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Paarküren Nachwuchscup</td>
     <td>U15</td>
     <td>2 Minuten</td>
