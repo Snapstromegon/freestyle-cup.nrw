@@ -34,10 +34,10 @@ Peter Kaufmann
 [info@freestyle-cup.nrw](mailto:info@freestyle-cup.nrw)
 
 ### Meldestart
-**01.01.2025**
+**15.01.2026**
 
 ### Meldeschluss
-**02.02.2025**
+**15.03.2026**
 <br>
 <br>
 Nachmeldungen sind\
@@ -49,20 +49,18 @@ nicht möglich.
 
 Dieser Wettkampf richtet sich an FahrerInnen in ganz Deutschland, jedoch werden FahrerInnen aus NRW, NI und HB bei der Vergabe von Startplätzen bevorzugt.
 
-## Teilnahmeberechtigung Nachwuchscup
+Es handelt sich um eine eintägige Veranstaltung.
+
+## Teilnahmeberechtigung
 
 Dieser Nachwuchswettkampf richtet sich vor allem an FahrerInnen, die sehr wenig bis keine Wettkampferfahrung haben.
 
-Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2023 und 2024 **NICHT** bei einer Landesmeisterschaft mit einer Einzel- oder Paarkür qualifiziert haben (weder für die Finalläufe noch für den nächsthöheren Wettkampf).
+Teilnahmeberechtigt sind weibliche Starterinnen, die sich in den Jahren 2024 und 2025 **NICHT** bei einer Landesmeisterschaft mit einer Einzel- oder Paarkür qualifiziert haben (weder für die Finalläufe noch für den nächsthöheren Wettkampf).
 
 Dies gilt auch für beide FahrerInnen einer Paarkür.
 Ausnahmen können nach Ermessen des Ausrichters in Einzelfällen gewährt werden.
 
 Für alle männlichen Einzelstarter gelten keine Einschränkungen. Es wird jedoch an die Sportler appelliert, Meldungen nur im Sinne der Nachwuchsförderung vorzunehmen.
-
-## Teilnahmeberechtigung Sonderpokal
-
-Es wird eine begrenzte Anzahl an Einzel- und Paarküren in einer offenen Klasse am Sonntag geben. Anmeldungen sind für alle FahrerInnen möglich, die NICHT am Nachwuchscup teilnehmen. Gefahren wird in zwei Altersgruppen U15 und 15+ um den Sonderpokal des Hauptsponsors.
 
 ## Veranstaltungsort
 
@@ -70,17 +68,17 @@ GWN Arena, Gouvieuxstraße, 51588 Nümbrecht
 
 ## Startgebühr
 
-Die Startgebühr beträgt pro FahrerIn 10,- EUR pro Start in den Nachwuchsklassen und 12,-EUR pro Start beim Sonderpokal. Zahlungsinformationen finden sich im Anmeldetool.
+Die Startgebühr beträgt pro FahrerIn 12,- EUR pro Start in den Nachwuchsklassen. Zahlungsinformationen finden sich im Anmeldetool.
 
 ## Anmeldung
 
-Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https://freestyle-cup.nrw) gesondert bekannt gegeben. Die Anmeldung erfolgt vereinsweise. Abmeldungen für einzelne Disziplinen oder den gesamten Wettkampf sind bis zum Meldeschluss möglich. Bei späteren Abmeldungen ist eine Erstattung der Startgebühr nur bei krankheitsbedingtem Grund und der Vorlage eines ärztlichen Attestes möglich.
+Die Anmeldung findet über unser Anmeldetool [anmeldung.freestyle-cup.nrw](https://anmeldung.freestyle-cup.nrw/) statt. Die Anmeldung erfolgt vereinsweise. Abmeldungen für einzelne Disziplinen oder den gesamten Wettkampf sind bis zum Meldeschluss möglich. Bei späteren Abmeldungen ist eine Erstattung der Startgebühr nur bei krankheitsbedingtem Grund und der Vorlage eines ärztlichen Attestes möglich.
 
 ## Vorläufiger Zeitplan
 
 <table>
   <tr>
-    <td rowspan=4>Samstag 15.03.2025 ab 11Uhr,<br>1h Mittagspause</td>
+    <td rowspan=4>Sonntag 19.04.2026 ab 9Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Einzelküren (w/m) Nachwuchscup</td>
     <td>U15</td>
     <td>2 Minuten</td>
@@ -90,16 +88,6 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
     <td>3 Minuten</td>
   </tr>
   <tr>
-    <td rowspan=2>Einzelküren (mixed) Sonderpokal</td>
-    <td>U15</td>
-    <td>3 Minuten</td>
-  </tr>
-  <tr>
-    <td>15+</td>
-    <td>4 Minuten</td>
-  </tr>
-  <tr>
-    <td rowspan=4>Sonntag 16.03.2025 ab 10Uhr,<br>1h Mittagspause</td>
     <td rowspan=2>Paarküren Nachwuchscup</td>
     <td>U15</td>
     <td>2 Minuten</td>
@@ -108,20 +96,10 @@ Die Details zum Anmeldeverfahren werden in Kürze auf [freestyle-cup.nrw](https:
     <td>15+</td>
     <td>3 Minuten</td>
   </tr>
-  <tr>
-    <td rowspan=2>Paarküren Sonderpokal</td>
-    <td>U15</td>
-    <td>3 Minuten</td>
-  </tr>
-  <tr>
-    <td>15+</td>
-    <td>4 Minuten</td>
-  </tr>
 </table>
 
 ## Allgemeine Hinweise
 
-Allgemeine Hinweise:
 Mit der Anmeldung stimmen die TeilnehmerInnen einer Veröffentlichung ihrer Namen, aller Ergebnisse sowie Fotos und Videos, die im Zusammenhang mit der Veranstaltung entstehen, zu.
 
 Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter und Ausrichter keine Haftung. Jede TeilnehmerIn muss für seinen eigenen Versicherungsschutz sorgen. MitgliederInnen in Sportvereinen sind über ihre Vereine versichert.
@@ -130,7 +108,7 @@ Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter
 
 ## Wettkampfordnung / Einsprüche
 
-Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iuf-rulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2024](https://www.einradverband.de/wp-content/uploads/2024/02/Konzept_gem_Wettkaempfe_v240217.pdf), das auf der Homepage des BDR einsehbar ist.
+Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iuf-rulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2021 in der Überarbeitung 2025](https://einradverband.de/wp-content/uploads/2025/03/Konzept_gem_Wettkaempfe_Einrad_Freestyle_v250223.pdf), das auf der Homepage des BDR einsehbar ist.
 
 Jede TeilnehmerIn ist für das pünktliche Erscheinen zur vorgegebenen Startzeit selbst verantwortlich. 
 Verpasst eine SportlerIn den Start, verfällt der Anspruch auf einen späteren Start.
@@ -156,8 +134,6 @@ Der Veranstalter / Ausrichter behält sich das Recht vor, im Zweifelsfall zu ent
 Die Plätze 1 - 3 werden mit Medaillen geehrt.
 Es werden außerdem für alle Plätze Urkunden vergeben.
 
-Die GewinnerInnen der Sonderpokalklassen U15 und 15+ erhalten jeweils zusätzlich den Pokal des Hauptsponsors.
-
 ## Altersklassen
 
 ### Nachwuchscup
@@ -176,19 +152,12 @@ Wir planen folgende Altersklassen anzubieten:
 | U19   |        3 Minuten        |
 | 19+   |        3 Minuten        |
 
-### Sonderpokal
-
-| Alter | Kürzeit (Einzel / Paar) |
-| :---- | :--------------: |
-| U15   |    3 Minuten     |
-| 15+   |    4 Minuten     |
-
 ## Musik
 
-Die Kürmusik muss **bis spätestens 02.03.2025** dem Veranstalter bereitgestellt werden. Genauere Details hierzu werden mit der Zahlungsaufforderung nach Meldeschluss mitgeteilt.
-Es muss sich um mp3-Dateien mit mindestens 192 kBit/s handeln.
+Die Kürmusik muss **bis spätestens 01.04.2026** dem Veranstalter im Anmeldetool bereitgestellt werden.
+Es muss sich um mp3-Dateien handeln und wir bitten darum auf gute Audioqualität zu achten.
 
-Nach dem 02.03.2025 sind Musikänderungen nicht mehr möglich.
+Nach dem 01.04.2026 sind Musikänderungen nicht mehr möglich.
 
 Die TeilnehmerInnen sind verpflichtet, die Musik beim Wettkampf zusätzlich auf einem USB-Stick bereitzuhalten.
 
@@ -248,6 +217,12 @@ Weitere Angebote finden sich auch auf:
 ## Verpflegung
 
 Während der Wettkämpfe steht ein angemessenes Catering zu familienfreundlichen Preisen zur Verfügung.
+
+Wir möchten für unseren sowie für alle weiteren Wettkämpfe darauf aufmerksam machen,
+daß das Bereitstellen einer angemessenen Verpflegung zu fairen Preisen für die Vereine
+und deren fleißigen Helfer viel Aufwand bedeutet. Deshalb wäre es sehr schön, wenn davon
+viel Gebrauch gemacht würde und der Verzehr von mitgebrachten Speisen auf ein faires
+Maß beschränkt bliebe.
 
 ## Sanitätsdienst
 
