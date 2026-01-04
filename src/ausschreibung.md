@@ -114,7 +114,7 @@ Jede TeilnehmerIn ist für das pünktliche Erscheinen zur vorgegebenen Startzeit
 Verpasst eine SportlerIn den Start, verfällt der Anspruch auf einen späteren Start.
 
 Begründete Abmeldungen müssen bei der Wettkampfleitung vor Aufruf der jeweiligen Altersklasse bekannt gegeben werden. 
-Das Einfahren auf der Wettkampffläche ist nur den TeilnehmerInnen der Küren gestattet, die als nächstes starten. Trainingsmöglichkeit besteht am Samstag und Sonntag ab 1h vor Wettkampfbeginn in einer **separaten Halle**.
+Das Einfahren auf der Wettkampffläche ist nur den TeilnehmerInnen der Küren gestattet, die als nächstes starten. Trainingsmöglichkeit besteht am Sonntag ab 1h vor Wettkampfbeginn in einer **separaten Halle**.
 
 Bei Defekten am Einrad während des Wettbewerbs hat die TeilnehmerIn nach Bestätigung durch die Wettkampfleitung die Möglichkeit, einen Neustart zu bekommen, falls kein Eigenverschulden vorliegt.
 
