@@ -68,7 +68,7 @@ GWN Arena, Gouvieuxstraße, 51588 Nümbrecht
 
 ## Startgebühr
 
-Die Startgebühr beträgt pro FahrerIn 12,- EUR pro Start in den Nachwuchsklassen. Zahlungsinformationen finden sich im Anmeldetool.
+Die Startgebühr beträgt pro FahrerIn 12,- EUR pro Start. Zahlungsinformationen finden sich im Anmeldetool.
 
 ## Anmeldung
 
