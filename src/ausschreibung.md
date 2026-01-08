@@ -108,7 +108,7 @@ Für Diebstähle, Unfälle oder sonstige Schadensfälle übernehmen Veranstalter
 
 ## Wettkampfordnung / Einsprüche
 
-Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/files/iuf-rulebook-2019.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2021 in der Überarbeitung 2025](https://einradverband.de/wp-content/uploads/2025/03/Konzept_gem_Wettkaempfe_Einrad_Freestyle_v250223.pdf), das auf der Homepage des BDR einsehbar ist.
+Es gelten die Regeln des [IUF-Rulebook 2019](https://unicycling.org/wp-content/uploads/2025/07/iuf-rulebook-current.pdf) sowie die Ausführungen hierzu im Konzept [Gemeinsame Wettkämpfe im Einrad Freestyle ab 2021 in der Überarbeitung 2025](https://einradverband.de/wp-content/uploads/2025/03/Konzept_gem_Wettkaempfe_Einrad_Freestyle_v250223.pdf), das auf der Homepage des BDR einsehbar ist.
 
 Jede TeilnehmerIn ist für das pünktliche Erscheinen zur vorgegebenen Startzeit selbst verantwortlich. 
 Verpasst eine SportlerIn den Start, verfällt der Anspruch auf einen späteren Start.
