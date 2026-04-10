@@ -4,8 +4,6 @@ eleventyNavigation:
   order: 1
 ---
 
-[Ausschreibung](/ausschreibung)
-
 # Hallo!
 
 Nach der ODM 2016, der DM 2019, der NDM 2023 und besonders dem ersten NRW Freestyle Cup 2025 freuen wir uns als SSV Nümbrecht 2026 wieder einen Wettkampf in unserem schönen Luftkurort ausrichten zu dürfen. Dieses mal ist es wieder der **NRW Freestyle Cup**. Ein Nachwuchswettkampf für alle FahrerInnen mit wenig bis keiner Wettkampferfahrung.
@@ -17,23 +15,37 @@ Nach der ODM 2016, der DM 2019, der NDM 2023 und besonders dem ersten NRW Freest
 <a target="_blank" rel="norefferer" href="https://rkbsoli.org/sportwelten/einradfahren-nach-iuf/">{% image "assets/img/rkb-logo.png", "Logo RKB" %}</a>
 </div>
 
-## Vorläufiger Zeitplan
+## Ungefährer Zeitplan
+
+_Der tatsächliche Zeitplan kann abweichen. Aktuelle Startzeiten können immer auf der [Startliste](https://anmeldung.freestyle-cup.nrw/startlist) eingesehen werden._
 
 <table>
   <tr>
-    <td rowspan=4>Sonntag 19.04.2026 ab 9Uhr,<br>1h Mittagspause</td>
+    <td rowspan=6>Sonntag 19.04.2026</td>
     <td rowspan=2>Nachwuchscup Einzelküren (w/m)</td>
     <td>U15</td>
+    <td>10:00</td>
   </tr>
   <tr>
     <td>15+</td>
+    <td>12:00</td>
+  </tr>
+  <tr>
+    <td colspan=2>Mittagspause / Siegerehrung Einzel</td>
+    <td>13:00</td>
   </tr>
   <tr>
     <td rowspan=2>Nachwuchscup Paarküren</td>
     <td>U15</td>
+    <td>14:00</td>
   </tr>
   <tr>
     <td>15+</td>
+    <td>16:30</td>
+  </tr>
+  <tr>
+    <td colspan=2>Siegerehrung Paar</td>
+    <td>17:00</td>
   </tr>
 </table>
 
